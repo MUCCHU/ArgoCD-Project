@@ -18,4 +18,5 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 </br>
 
 Docker image of containerized web app : https://hub.docker.com/repository/docker/mucchu/nextjs-app/
+</br>
 Containerized web app with kubernates cluster: https://github.com/MUCCHU/AI-Planet-Assignment
